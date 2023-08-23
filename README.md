@@ -14,7 +14,7 @@
 
 - Açık ve koyu moddan birinie seçerek kullanabilir.
 
-- <a href="">Canlı Önizleme</a>
+- <a href="https://crud-app00.netlify.app/">Canlı Önizleme</a>
 
 ### Kullanılan Teknolojiler
 
